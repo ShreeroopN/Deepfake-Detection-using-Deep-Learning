@@ -64,8 +64,8 @@ Deepfake_detection_using_deep_learning
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/abhijitjadhav1998/"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Abhijit Jadhav"/><br /><sub><b>Abhijit Jadhav</b></sub></a><br /><a href="#projectManagement-abhijitjadhav1998" title="Project Management">📆</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://vthonte.vercel.app/"><img src="https://avatars.githubusercontent.com/u/43621438?v=4?s=100" width="100px;" alt="Vishwesh Thonte"/><br /><sub><b>Vishwesh Thonte</b></sub></a><br /><a href="#maintenance-vthonte" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/abhijitjadhav1998/"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Shreeroop Nilakhe"/><br /><sub><b>Shreeroop Nilakhe</b></sub></a><br /><a href="#projectManagement-abhijitjadhav1998" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://vthonte.vercel.app/"><img src="https://avatars.githubusercontent.com/u/43621438?v=4?s=100" width="100px;" alt="Vaibhav Dhing"/><br /><sub><b>Vaibhav Dhing</b></sub></a><br /><a href="#maintenance-vthonte" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
@@ -81,11 +81,6 @@ Deepfake_detection_using_deep_learning
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-#### 6.1 Offline Contributors
-   1. Jay Patel
-   2. Hitendra Patil
-   3. Abhishek Patange
    
 ## 7. License
 
